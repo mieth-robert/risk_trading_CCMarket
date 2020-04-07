@@ -23,5 +23,5 @@ julia> Pkg.add("IJulia")
 ```
 and then in your terminal:
 ```
-jupyter notebook uncertain_dlmp_case_study.ipynb
+jupyter notebook risk_trading_case_study.ipynb
 ```
