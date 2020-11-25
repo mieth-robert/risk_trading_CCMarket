@@ -5,3 +5,6 @@ Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 Mosek = "6405355b-0ac2-5fba-af84-adbd65488c0e"
 MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+
+[compat]
+julia = "1.3"
